@@ -1,4 +1,4 @@
-<a href="https://github.com/annuk123">ANNU kUMARI </a>
+<a href="https://github.com/annuk123">ANNU KUMARI </a>
 
 # Weather App
 
